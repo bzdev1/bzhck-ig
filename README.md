@@ -229,3 +229,21 @@ Telegram : [REDACTED]
 ```
 
 Dibuat dengan ☕ dan energi gelap.
+
+---
+
+📜 LICENSE
+
+MIT License
+Tapi ingat disclaimer di atas.
+Gunakan untuk kebaikan. Atau setidaknya jangan ketahuan.
+
+---
+
+⭐ SUPPORT
+
+Kalau tools ini berguna:
+
+· ⭐ Star repo ini
+· 🍴 Fork kalau mau mod
+· 💀 Jangan lupa jadi hacker yang bijak
