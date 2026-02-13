@@ -1,0 +1,28 @@
+# ============================================================
+# BzHck - Instagram Generator DEWA+ EDITION
+# Bzone Core Requirements - Full Specification
+# ============================================================
+
+# ------------------- WAJIB -------------------
+requests>=2.28.0          # HTTP requests ke endpoint Instagram
+fake-useragent>=1.4.0     # Rotasi User-Agent biar gak dicurigai
+colorama>=0.4.6           # Warna cross-platform (Win/Linux/Termux)
+
+# ------------------- OPSIONAL (REKOMENDASI) -------------------
+urllib3>=1.26.0           # Connection pooling, retry, HTTP adapter
+certifi>=2023.0.0         # SSL certificate verification biar gak error SSL
+idna>=3.4                 # Internationalized domain names support
+charset-normalizer>=3.0.0 # Character encoding detection
+six>=1.16.0               # Python 2 & 3 compatibility layer
+
+# ------------------- UNTUK FUTURE UPDATE -------------------
+# aiohttp>=3.8.0          # Async mode (nanti kalo pake asyncio)
+# beautifulsoup4>=4.12.0  # Parsing HTML kalo butuh scraping
+# pandas>=2.0.0           # Export ke CSV/Excel
+# tqdm>=4.65.0            # Progress bar visual
+# cryptography>=41.0.0    # Encrypt/decrypt proxy auth
+
+# ============================================================
+# INSTALL: pip install -r requirements.txt
+# FREEZE:  pip freeze > requirements.txt
+# ============================================================
